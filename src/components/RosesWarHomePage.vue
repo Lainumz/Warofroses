@@ -11,7 +11,7 @@
 
     <div class="content-wrapper">
       <div class="index-section">
-        <h2>Body</h2>
+        <h2 class="body">Body</h2>
         <ul>
           <li><a href="#antecedents">Causes & Antecedents</a></li>
           <li><a href="#yorks-revolt">York’s Revolt (1455 - 1460)</a></li>
@@ -34,14 +34,38 @@
             England. These battles revolved around the power struggle between two rival branches of the Plantagenet
             family—the houses of York and Lancaster—for control of the English throne. The origins of this conflict lay in
             the aftermath of Edward III's reign, with both factions claiming legitimacy through their descent from him.
+            <br>
+            <br>
             The conflict started with the First Battle of St Albans, where forces aligned with Richard, Duke of York,
             clashed with those loyal to King Henry VI. This initial confrontation set the stage for a prolonged series of
             intermittent battles, political maneuvering, and acts of treachery that spanned over several decades.
+            <br>
+            <br>
             The Wars of the Roses were unleashed by a complex web of factors, including weak leadership, financial
             instability, and deep-rooted power struggles. These elements profoundly impacted the political, social, and
             economic landscape of England during this tumultuous period, shaping the events that unfolded over the
             subsequent three decades.
+            <br>
+            <br>
+            <img src="@/assets/war.jpg" alt="Lancaster and york"
+              style="width: 600px; height: auto; display: block; margin: auto;">
+            <br>
           </p>
+          <h2 class="title1"> Why do these wars receive the name of Wars of Roses?</h2>
+          <p>The name “The Wars of the Roses” was posteriorly originated after the wars finished. It was romantically
+            created by the novelist Sir Walter Scott (1771-1832). Walter Scott found a source of inspiration in William
+            Shakespeare’s novels, hence he popularized the use of rose symbols in his play Henry VI (1597). In the play,
+            he brought up a scene in which the noblemen choose a red or white rose to represent the cause they are
+            reinforcing the grounds of the Temple Church in London. By the latter part of the 18th century, historians did
+            recognize the Tudor Rose's symbolic reconciliation in Walter’s historical book Anne of Geierstein, whom he was
+            always referring to the encounters as "The Wars of the Roses." The colors play an important role in the
+            meaning of the given name since the white rose represents the York family and the red rose represents the
+            Lancaster family. </p>
+            <div style="display: flex; justify-content: flex-end;">
+  <img src="@/assets/roses2.png" alt="Lancaster and York" style="width: 400px; height: auto;">
+</div>
+
+
         </section>
         <section id="antecedents" class="scroll-section">
           <h2 class="title">Antecedents and causes</h2>
@@ -206,6 +230,9 @@ export default {
 
 <style>
 /* Estilos para la página de inicio */
+body {
+  background-color: rgb(252, 237, 244);
+}
 
 .roses-war-home {
   /* Estilos generales para el componente principal */
@@ -217,7 +244,7 @@ export default {
   text-align: center;
   color: white;
   overflow: hidden;
-  height: 710px;
+  height: 850px;
   position: relative;
 }
 
@@ -342,13 +369,18 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400&display=swap');
 
 /* Aplica la fuente Caveat solo a los títulos de las secciones */
-.title,
 .overlay-text {
   font-family: 'Caveat', cursive;
   font-size: 2.5rem;
   /* Cambia 'cursive' por la tipografía de respaldo si 'Caveat' no está disponible */
   /* Otros estilos de fuente según necesites */
 }
+
+.title {
+  font-family: 'Caveat', cursive;
+  font-size: 4rem;
+}
+
 
 /* En tu archivo CSS */
 
@@ -363,6 +395,16 @@ export default {
   font-family: 'Noto Serif', serif;
   /* Fallback a 'serif' si 'Noto Serif' no está disponible */
   /* Otros estilos de fuente según necesites */
+}
+
+.title1 {
+  margin-left: 20px;
+  font-size: 1.5rem;
+}
+
+.body {
+  margin-left: 40%;
+  font-size: 2.4rem;
 }
 </style>
 

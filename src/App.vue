@@ -22,6 +22,12 @@ export default {
 <style>
 /* Estilos globales o específicos de App.vue si es necesario */
 /* ... */
+/* Resetea los márgenes para HTML y body */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 </style>
 
 
