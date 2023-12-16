@@ -4,21 +4,16 @@
       <div class="text-overlay">
         <h1 class="overlay-text">AN INTRODUCTION TO THE WARS OF ROSES</h1>
       </div>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat&display=swap">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap">
 
     </header>
 
     <div class="content-wrapper">
       <div class="index-section">
-        <h2>Índice</h2>
+        <h2>Body</h2>
         <ul>
-          <li><a href="#wars-of-roses">Wars of Roses (1455 - 1487)</a></li>
-          <li><a href="#look-format-nick">LOOK AT THE FORMAT NICK ASKS FOR</a></li>
-          <li><a href="#introduction">Introduction</a></li>
-          <li><a href="#body">Body</a></li>
-          <li><a href="#causes">Causes</a></li>
-          <li><a href="#antecedents">Antecedents (What happened before these wars?)</a></li>
+          <li><a href="#antecedents">Causes & Antecedents</a></li>
           <li><a href="#yorks-revolt">York’s Revolt (1455 - 1460)</a></li>
           <li><a href="#ascension">Ascension and reign of the Yorkist Edward IV (1461 - 1483)</a></li>
           <li><a href="#richard">Richard III reign and defeat by Lancastrians (1483 - 1485)</a></li>
@@ -32,85 +27,65 @@
         <section id="wars-of-roses" class="scroll-section">
           <!-- Contenido de la sección Wars of Roses -->
           <h2 class="title">Wars of Roses (1455 - 1487)</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit distinctio, voluptate similique reiciendis
-            laboriosam autem dicta officiis inventore at blanditiis. Cum cupiditate sed numquam. Eos delectus voluptatibus
-            corrupti fugit commodi?
-            Est deleniti consequatur tenetur, laudantium provident numquam maxime rerum perferendis vitae quo aperiam
-            nulla
-            eligendi temporibus, quia unde quisquam nam quos facilis! At vero cupiditate deserunt illum. At, natus nisi.
-            Possimus numquam voluptatibus consequatur sint deserunt esse eveniet reprehenderit iste iure a et libero
-            consectetur tenetur nesciunt accusamus illo voluptate fuga doloribus accusantium unde, aliquid vel dolorem
-            praesentium. Adipisci, tempore?
-            Dolore, magni pariatur! Harum animi similique quisquam et, vel commodi enim nemo earum temporibus odit rerum
-            nam
-            quam incidunt saepe, quasi dolores totam nostrum. Rerum quaerat cum facere tempora fuga.</p>
-        </section>
-        <section id="look-format-nick" class="scroll-section">
-          <!-- Contenido de la sección Look at the Format Nick Asks For -->
-          <h2 class="title">LOOK AT THE FORMAT NICK ASKS FOR</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit distinctio, voluptate similique reiciendis
-            laboriosam autem dicta officiis inventore at blanditiis. Cum cupiditate sed numquam. Eos delectus voluptatibus
-            corrupti fugit commodi?
-            Est deleniti consequatur tenetur, laudantium provident numquam maxime rerum perferendis vitae quo aperiam
-            nulla
-            eligendi temporibus, quia unde quisquam nam quos facilis! At vero cupiditate deserunt illum. At, natus nisi.
-            Possimus numquam voluptatibus consequatur sint deserunt esse eveniet reprehenderit iste iure a et libero
-            consectetur tenetur nesciunt accusamus illo voluptate fuga doloribus accusantium unde, aliquid vel dolorem
-            praesentium. Adipisci, tempore?
-            Dolore, magni pariatur! Harum animi similique quisquam et, vel commodi enim nemo earum temporibus odit rerum
-            nam
-            quam incidunt saepe, quasi dolores totam nostrum. Rerum quaerat cum facere tempora fuga.</p>
         </section>
         <section id="introduction" class="scroll-section">
           <h2 class="title">Introduction</h2>
-          <p>Brief description of events → Contextualization
-Why do they receive this name? 
-</p>
-        </section>
-        <section id="body" class="scroll-section">
-          <h2 class="title">Body</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit distinctio, voluptate similique reiciendis
-            laboriosam autem dicta officiis inventore at blanditiis. Cum cupiditate sed numquam. Eos delectus voluptatibus
-            corrupti fugit commodi?
-            Est deleniti consequatur tenetur, laudantium provident numquam maxime rerum perferendis vitae quo aperiam
-            nulla
-            eligendi temporibus, quia unde quisquam nam quos facilis! At vero cupiditate deserunt illum. At, natus nisi.
-            Possimus numquam voluptatibus consequatur sint deserunt esse eveniet reprehenderit iste iure a et libero
-            consectetur tenetur nesciunt accusamus illo voluptate fuga doloribus accusantium unde, aliquid vel dolorem
-            praesentium. Adipisci, tempore?
-            Dolore, magni pariatur! Harum animi similique quisquam et, vel commodi enim nemo earum temporibus odit rerum
-            nam
-            quam incidunt saepe, quasi dolores totam nostrum. Rerum quaerat cum facere tempora fuga.</p>
-        </section>
-        <section id="causes" class="scroll-section">
-          <h2 class="title">Causes</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit distinctio, voluptate similique reiciendis
-            laboriosam autem dicta officiis inventore at blanditiis. Cum cupiditate sed numquam. Eos delectus voluptatibus
-            corrupti fugit commodi?
-            Est deleniti consequatur tenetur, laudantium provident numquam maxime rerum perferendis vitae quo aperiam
-            nulla
-            eligendi temporibus, quia unde quisquam nam quos facilis! At vero cupiditate deserunt illum. At, natus nisi.
-            Possimus numquam voluptatibus consequatur sint deserunt esse eveniet reprehenderit iste iure a et libero
-            consectetur tenetur nesciunt accusamus illo voluptate fuga doloribus accusantium unde, aliquid vel dolorem
-            praesentium. Adipisci, tempore?
-            Dolore, magni pariatur! Harum animi similique quisquam et, vel commodi enim nemo earum temporibus odit rerum
-            nam
-            quam incidunt saepe, quasi dolores totam nostrum. Rerum quaerat cum facere tempora fuga.</p>
+          <p>The Wars of the Roses were a series of conflicts that unfolded in the latter half of the 15th century in
+            England. These battles revolved around the power struggle between two rival branches of the Plantagenet
+            family—the houses of York and Lancaster—for control of the English throne. The origins of this conflict lay in
+            the aftermath of Edward III's reign, with both factions claiming legitimacy through their descent from him.
+            The conflict started with the First Battle of St Albans, where forces aligned with Richard, Duke of York,
+            clashed with those loyal to King Henry VI. This initial confrontation set the stage for a prolonged series of
+            intermittent battles, political maneuvering, and acts of treachery that spanned over several decades.
+            The Wars of the Roses were unleashed by a complex web of factors, including weak leadership, financial
+            instability, and deep-rooted power struggles. These elements profoundly impacted the political, social, and
+            economic landscape of England during this tumultuous period, shaping the events that unfolded over the
+            subsequent three decades.
+          </p>
         </section>
         <section id="antecedents" class="scroll-section">
-          <h2 class="title">Antecedents (What happened before these wars?)</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit distinctio, voluptate similique reiciendis
-            laboriosam autem dicta officiis inventore at blanditiis. Cum cupiditate sed numquam. Eos delectus voluptatibus
-            corrupti fugit commodi?
-            Est deleniti consequatur tenetur, laudantium provident numquam maxime rerum perferendis vitae quo aperiam
-            nulla
-            eligendi temporibus, quia unde quisquam nam quos facilis! At vero cupiditate deserunt illum. At, natus nisi.
-            Possimus numquam voluptatibus consequatur sint deserunt esse eveniet reprehenderit iste iure a et libero
-            consectetur tenetur nesciunt accusamus illo voluptate fuga doloribus accusantium unde, aliquid vel dolorem
-            praesentium. Adipisci, tempore?
-            Dolore, magni pariatur! Harum animi similique quisquam et, vel commodi enim nemo earum temporibus odit rerum
-            nam
-            quam incidunt saepe, quasi dolores totam nostrum. Rerum quaerat cum facere tempora fuga.</p>
+          <h2 class="title">Antecedents and causes</h2>
+          <p>For that time being, the Plantagenets were and had been on the throne for generations. They were highly
+            spoken of for the transformation of England under their power, remarkably, the signing of the Magna Carta.
+            However, their dynasty and the French one had been interlinked from previous times, but for the
+            well‑established rivalry between the House of the Lancastrian and the House of York. It wasn’t until the reign
+            of Henry VI that this would set off a chain of unfortunate events.
+            <br>
+            <br>
+            Taking a look into the context of these wars, we can quickly notice the context of crisis that England was
+            undergoing, due to the defeat they suffered in the Hundred Years War. The economic expenses and weak
+            leadership of the king, compounded by decisions attributed to his insanity, ultimately led to popular revolts.
+            Anarchical ideals would begin to spread as taxation would become higher. A different system emerged, wherein
+            individuals paid the monarchy in exchange for their magnates' services, replacing the feudal levy. This new
+            arrangement was termed "Bastard feudalism," a term coined by historian Charles Plummer in 1885. The latter
+            caused a power struggle owing to the retinues of the magnates becoming more influential than the monarchy.
+            Furthermore, this period can be seen as a transitional moment in which towns were growing bigger, society had
+            broken ties with the land, and the labor market was evolving into something more flexible.
+            <br>
+            <br>
+            <img src="@/assets/lancaster.webp" alt="Lancaster and york"
+              style="width: 600px; height: auto; display: block; margin: auto;">
+            <br>
+            In medieval times, the monarchy was often seen as a divine institution, believed to be sanctioned by God. The
+            legitimacy of a monarch's lineage was rooted in the belief of a divine right to rule. However, this belief did
+            not prevent challenges to the throne if the people believed the ruler was unfit. The Plantagenet Family was
+            divided in both Houses of Lancaster and York, and there was more than one possible heir to the throne. For
+            Instance, the monarch Henry VI did overthrow Richard II to become the King, illustrating how power within the
+            monarchy could shift between different branches of the royal family. In the long run, this would lead to
+            conflict over succession.
+            <br>
+            <br>
+            A lack of confidence in the leadership of Henry VI was building up among the established noble families
+            because the king was appointing inappropriate nobles to roles within the court. Influenced by Queen Margaret
+            of Anjou, the king, in a state of mental illness, favored young and inexperienced nobles rising into senior
+            positions, upsetting established noble families like the Duke of York, who also belonged to the royal lineage.
+            Thus, the treasury management was made by these newly appointed nobles in the remaining areas they had after
+            the Hundred Years War; Calais and Normandy. Both did suffer serious deficiencies in the 1440s and 1450s. This
+            climate of instability explained the creation of a Regency Council headed by Richard of York, who quickly
+            began to take action. By surprise, Henry VI recovered and reversed the progress that was being made and forced
+            Richard of York into exile. This decision would be the final blow to the beginning of War.
+
+          </p>
         </section>
         <section id="yorks-revolt" class="scroll-section">
           <h2 class="title">York’s Revolt (1455 - 1460)</h2>
@@ -134,6 +109,8 @@ Why do they receive this name?
             the Yorks, ending with Richard of York’s and his son Edmund’s lives. Afterwards, she beated back Warwick in
             the 2nd battle of St. Albans (February 17th 1461), getting back her husband Henry VI and returning to the
             North, leaving London without a king.
+            <br>
+            <br>
             Therefore, Warwick met with York’s elder son Edward in London, with the plan to talk with the bishop of London
             aiming to claim the throne. The bishop asked the people of London and the people decided to claim Edward as
             their king, making him Edward the IV. Given this coronation, the king and Warwick decided to strike back
@@ -324,6 +301,8 @@ export default {
   /* Estilos para el contenido de las secciones */
   width: 70%;
   margin: 0 auto;
+  font-size: 1.2rem;
+  text-align: justify;
   /* Centra el contenido */
   /* Ajusta el ancho del contenido */
   /* Otros estilos del contenido */
@@ -363,8 +342,11 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400&display=swap');
 
 /* Aplica la fuente Caveat solo a los títulos de las secciones */
-.title, .overlay-text {
-  font-family: 'Caveat', cursive; /* Cambia 'cursive' por la tipografía de respaldo si 'Caveat' no está disponible */
+.title,
+.overlay-text {
+  font-family: 'Caveat', cursive;
+  font-size: 2.5rem;
+  /* Cambia 'cursive' por la tipografía de respaldo si 'Caveat' no está disponible */
   /* Otros estilos de fuente según necesites */
 }
 
@@ -378,10 +360,10 @@ export default {
 .section-content,
 .index-section ul,
 .section-content p {
-  font-family: 'Noto Serif', serif; /* Fallback a 'serif' si 'Noto Serif' no está disponible */
+  font-family: 'Noto Serif', serif;
+  /* Fallback a 'serif' si 'Noto Serif' no está disponible */
   /* Otros estilos de fuente según necesites */
 }
-
 </style>
 
 
