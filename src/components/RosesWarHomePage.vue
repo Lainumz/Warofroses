@@ -6,6 +6,7 @@
       </div>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat&display=swap">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     </header>
 
@@ -225,6 +226,8 @@ export default {
     }
   }
 };
+
+
 </script>
 
 
@@ -381,31 +384,50 @@ body {
   font-size: 4rem;
 }
 
+/* Estilos para pantallas pequeñas */
+@media screen and (max-width: 768px) {
+  .banner {
+    height: 400px; /* Reducir la altura del banner en dispositivos móviles */
+  }
 
-/* En tu archivo CSS */
+  .text-overlay {
+    font-size: 1.2rem; /* Ajustar el tamaño del texto en el banner */
+  }
 
-/* Agrega esta regla para importar la fuente desde Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+  .content-wrapper {
+    flex-direction: column; /* Cambiar el diseño a una columna en dispositivos móviles */
+  }
 
-/* Aplica la fuente 'Noto Serif' al contenido del índice y las secciones, excepto a los títulos */
-.index-section,
-.section-content,
-.index-section ul,
-.section-content p {
-  font-family: 'Noto Serif', serif;
-  /* Fallback a 'serif' si 'Noto Serif' no está disponible */
-  /* Otros estilos de fuente según necesites */
+  .index-section {
+    width: 100%; /* Ocupar todo el ancho en dispositivos móviles */
+    height: auto; /* Ajustar la altura automáticamente */
+    position: static; /* Cambiar la posición para no quedar fijo en la parte superior */
+    margin-top: 10px; /* Reducir el margen superior */
+  }
+
+  .section-content {
+    width: 100%; /* Ocupar todo el ancho disponible */
+    margin: 20px auto; /* Margen con auto para centrar */
+    font-size: 1rem; /* Ajustar el tamaño del texto principal */
+  }
+
+  .index-section ul li {
+    margin-bottom: 10px; /* Reducir el espacio entre elementos de la lista */
+  }
+
+  /* Ejemplo de ajuste para imágenes */
+  img {
+    max-width: 100%; /* Hacer que las imágenes sean responsivas */
+    height: auto; /* Ajustar la altura automáticamente */
+    display: block; /* Evitar espacios vacíos debajo de las imágenes */
+    margin: 10px auto; /* Añadir margen y centrar las imágenes */
+  }
 }
 
-.title1 {
-  margin-left: 20px;
-  font-size: 1.5rem;
-}
-
-.body {
+.body{
   margin-left: 40%;
-  font-size: 2.4rem;
 }
+
 </style>
 
 

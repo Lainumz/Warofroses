@@ -44,6 +44,23 @@ export default {
   color: #ffd700; /* Cambia el color al pasar el cursor */
   /* Otros estilos hover */
 }
+
+/* Estilos para pantallas pequeñas */
+@media screen and (max-width: 768px) {
+  .navbar {
+    padding: 0; /* Eliminar el padding para aprovechar mejor el espacio */
+  }
+
+  .nav-links {
+    display: block; /* Cambiar a una disposición de bloque */
+    text-align: center; /* Centrar el texto */
+  }
+
+  .nav-links li {
+    margin: 10px 0; /* Espaciado entre elementos de la lista */
+  }
+}
+
 </style>
 
   
