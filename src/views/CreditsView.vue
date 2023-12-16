@@ -9,6 +9,9 @@
         <li class="credit-name">Adrià Bagué</li>
       </ul>
     </div>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap">
+
   </template>
   
   <script>
@@ -18,33 +21,39 @@
   </script>
   
   <style>
-  .credits {
-    text-align: center;
-    margin-top: 10px;
-    padding: 5vw;
-    height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assets/rooses.jpg');
-    background-size: cover;
-    background-position: center;
-  }
-  
-  .credits-title {
-    font-size: 3.5vw; /* Tamaño de fuente más pequeño */
-    color: #fff;
-    margin-bottom: 3vw; /* Margen inferior reducido */
-  }
-  
-  .credits-list {
-    list-style: none;
-    padding: 0;
-    margin-top: 3vw; /* Margen superior reducido */
-  }
-  
-  .credit-name {
-    font-size: 2.5vw; /* Tamaño de fuente más pequeño */
-    margin-bottom: 2vw; /* Margen inferior reducido */
-    color: #fff;
-  }
+/* En tu archivo CSS */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+/* Aplica la fuente 'Noto Serif' a los créditos */
+.credits {
+  font-family: 'Noto Serif', serif; /* Fallback a 'serif' si 'Noto Serif' no está disponible */
+  text-align: center;
+  margin-top: 0px;
+  padding: 5vw;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assets/rooses.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.credits-title {
+  font-size: 3.5vw;
+  color: #fff;
+  margin-bottom: 3vw;
+}
+
+.credits-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 3vw;
+}
+
+.credit-name {
+  font-size: 2.5vw;
+  margin-bottom: 2vw;
+  color: #fff;
+}
+
   </style>
   
   

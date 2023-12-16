@@ -10,7 +10,7 @@
         <li><a href="https://www.worldhistory.org/article/1504/the-wars-of-the-roses-consequences--effects/" target="_blank">Wars of the Roses - World History</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Wars_of_the_Roses" target="_blank">Wars of the Roses - Wikipedia</a></li>
         <li><a href="https://www.britannica.com/event/Wars-of-the-Roses" target="_blank">Wars of the Roses - Britannica</a></li>
-        <li><a href="https://schoolshistory.org.uk/topics/british-history/wars-of-the-roses/causes/" target="_blank">Causes of the Wars of the Roses - Schoolshistory.org.uk</a></li>
+        <li><a href="https://schoolshistory.org.uk/topics/british-history/wars-of-the-roses/causes-of-the-wars-of-the-roses/" target="_blank">Causes of the Wars of the Roses - Schoolshistory.org.uk</a></li>
       </ul>
     </div>
   </template>
