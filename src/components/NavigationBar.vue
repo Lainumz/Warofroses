@@ -4,6 +4,7 @@
       <li><router-link to="/">Home</router-link></li>
       <li><router-link to="/abstract">Abstract</router-link></li>
       <li><router-link to="/Essay">Essay</router-link></li>
+      <li><router-link to="/bibliography">Bibliography</router-link></li>
       <li><router-link to="/Credits">Credits</router-link></li>
     </ul>
   </nav>

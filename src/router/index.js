@@ -5,6 +5,7 @@ import RosesWarHomePage from '../components/RosesWarHomePage.vue'; // Asegúrate
 import AbstractView from '../views/AbstractView.vue'
 import EssayView from '../views/EssayView.vue';
 import CreditsView from '../views/CreditsView.vue';
+import BibliographyView from '@/views/BibliographyView.vue';
 
 const routes = [
   {
@@ -29,6 +30,12 @@ const routes = [
     path: '/credits',
     name: 'Credits',
     component: CreditsView
+  },
+
+  {
+    path: '/bibliography',
+    name: 'Bibliography',
+    component: BibliographyView
   }
   // Puedes agregar más rutas según sea necesario
 ];
