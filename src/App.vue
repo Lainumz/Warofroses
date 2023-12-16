@@ -1,26 +1,28 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <!-- Coloca el componente NavigationBar aquí para que esté presente en toda la aplicación -->
+    <NavigationBar />
+
+    <!-- Aquí se mostrará el componente correspondiente a la ruta actual -->
+    <router-view />
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import NavigationBar from '@/components/NavigationBar.vue'; // Importa el componente NavigationBar
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    NavigationBar // Registra el componente NavigationBar para su uso
+  },
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+/* Estilos globales o específicos de App.vue si es necesario */
+/* ... */
 </style>
+
+
+
